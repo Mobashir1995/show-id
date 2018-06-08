@@ -8,15 +8,17 @@ This Plugin also gives you the full control over where you don't wnat to see the
 <h2>Features</h2>
 
 This plugin will show ID for the followings:
-    * Posts
-    * Pages
-    * Custom Post Types
-    * Category
-    * Tags
-    * Custom Taxonomies
-    * Users
-    * Comments
-    * Media
+<ul>
+    <li> Posts </li>
+    <li> Pages </li>
+    <li> Custom Post Types </li>
+    <li> Category </li>
+    <li> Tags </li>
+    <li> Custom Taxonomies </li>
+    <li> Users </li>
+    <li> Comments </li>
+    <li> Media </li>
+  </ul>
 
 
 <h2>Installation</h2>
