@@ -1,4 +1,4 @@
-#show ID
+<h1>show ID</h1>
 By default WordPress doesn't show the ID of any post, page, custom post type, taxonomy or any other items on the admin. So, sometimes we need to see the ID of the posts, pages, custom posts, taxonomies or others.
 
 This Plugin will add a ID column to the post, page, custom post types, category, tags, taxonomy, media, users, comments table. Which enable you to easily get the ID.
